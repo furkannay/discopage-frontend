@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+textarea {
+  border-radius: 10px;
+  padding: 10px;
+  font-size: calc(10px + 2vmin);
+  width: 100%;
+  height: 300px;
+  resize: none;
+  word-wrap: break-word; /* Uzun kelimeleri veya metni alt satıra kırar */
+  word-break: break-all;
+
+}
+
+ 
+
+
+TextArea {
+  position: relative;
+  bottom: 0px;
+}
+
+
+.App-logo {
+
+  height: 30vmin;
+  pointer-events: visibleFill;
+
+
+}
+@media (prefers-reduced-motion: no-preference) {
+  .unilogo {
+    animation: scale 2s infinite;
+    
+  }
+}
+
+.unilogo {
+
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 15px;
+  left: 5px;
+
+}
+.App-sign p {
+
+  font-size: 10px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+} 
+.App-sign div {
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: white;
+  padding-left: 10px;
+  flex: 1;
+}
+
+
+
+.App-link {
+  position: relative;
+  bottom: 60px;
+  padding-bottom: 10px;
+  color: blue;
+}
+
+.header-content{
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: white;
+  flex: 10;
+  margin-right:100px;
+
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: white;
+
+}
+.App-head {
+position: relative;
+bottom: 30px;
+}
+
+
+
+@keyframes fadeInText {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+  
+}
+@keyframes scale {
+  0% {
+      transform: scale(1);
+  }
+  50% {
+      transform: scale(1.5); /* 1.5 kat büyütme */
+  }
+  100% {
+      transform: scale(1);
+  }
+
+}
+.animated-text {
+  animation: fadeInText 1s ease-in-out;
+  word-wrap: break-word; /* Uzun kelimeleri veya metni alt satıra kırar */
+  word-break: break-all;
+}
