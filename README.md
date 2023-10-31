@@ -16,7 +16,8 @@ Welcome to the Colorful Text Input App! This is a fun and interactive React appl
 
 Welcome to the Colorful Text Input App! This is a fun and interactive React application that allows users to input text and see it displayed with ever-changing colors. The app also features a character counter and a disco ball animation at the top. 
 
-<img src="![react1](https://github.com/furkannay/discopage-frontend/assets/74255322/d2c24359-0521-433c-b529-7254b86992c7)">
+![Açıklama](https://github.com/furkannay/discopage-frontend/assets/74255322/d2c24359-0521-433c-b529-7254b86992c7)
+
 
 ## Features
 
@@ -30,6 +31,8 @@ Welcome to the Colorful Text Input App! This is a fun and interactive React appl
 
 
 ## Usage
+
+https://github.com/furkannay/discopage-frontend/assets/74255322/2bcc7b3e-7400-4266-b724-38350ad6f439
 
 1.  [It's openin on your browser with](http://localhost:3000)
 
