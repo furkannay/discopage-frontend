@@ -1,6 +1,6 @@
 # Colorful Text Input App
 
-Welcome to the Colorful Text Input App! This is a fun and interactive React application that allows users to input text and see it displayed with ever-changing colors. The app also features a character counter and a disco ball animation at the top. 
+Welcome to the Colorful Text Input App! This is a fun and interactive React application that allows users to input text and see it displayed with ever-changing colors. The app also features a character counter and a disco ball animation at the top
 
 ## Features
 
